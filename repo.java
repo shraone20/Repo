@@ -1,5 +1,5 @@
-class repo{
-  public static void main(String [] args){
+class repo {
+  public static void main(String[] args) {
     System.out.println("hi");
   }
 }
